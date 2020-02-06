@@ -1,0 +1,26 @@
+2020-02-06 00:34:04	?	?	Saved module 'SystemUpdater' config data
+2020-02-06 00:34:04	?	?	Saved module info caches
+2020-02-06 00:34:04	guest	http://localhost/processwire/http404/	Saved module info caches
+2020-02-06 00:34:04	guest	http://localhost/processwire/http404/	Installed module 'ProcessRecentPages'
+2020-02-06 00:34:04	guest	http://localhost/processwire/http404/	Saved module info caches
+2020-02-06 00:34:04	guest	http://localhost/processwire/http404/	Saved module 'SystemUpdater' config data
+2020-02-06 00:34:04	guest	http://localhost/processwire/http404/	Saved module info caches
+2020-02-06 00:34:04	guest	http://localhost/processwire/http404/	Installed module 'AdminThemeUikit'
+2020-02-06 00:34:04	guest	http://localhost/processwire/http404/	Saved module info caches
+2020-02-06 00:34:14	guest	http://localhost/processwire/processwire/login/	Saved module 'ProcessProfile' config data
+2020-02-06 00:34:14	guest	http://localhost/processwire/processwire/login/	Saved module info caches
+2020-02-06 00:34:14	guest	http://localhost/processwire/processwire/login/	Installed module 'ProcessLogger'
+2020-02-06 00:34:14	guest	http://localhost/processwire/processwire/login/	Saved module info caches
+2020-02-06 00:34:14	guest	http://localhost/processwire/processwire/login/	Installed module 'InputfieldIcon'
+2020-02-06 00:34:14	guest	http://localhost/processwire/processwire/login/	Saved module info caches
+2020-02-06 00:34:14	guest	http://localhost/processwire/processwire/login/	Saved module 'SystemUpdater' config data
+2020-02-06 00:34:14	guest	http://localhost/processwire/	Saved module 'SystemUpdater' config data
+2020-02-06 00:34:35	?	?	Saved module 'SystemUpdater' config data
+2020-02-06 00:34:35	?	?	Saved module info caches
+2020-02-06 00:34:35	guest	http://localhost/processwire/processwire/login/	Saved module 'SystemUpdater' config data
+2020-02-06 00:34:35	admin	http://localhost/processwire/processwire/?login=1	Saved module 'SystemUpdater' config data
+2020-02-06 00:34:35	?	?	Saved module info caches
+2020-02-06 00:34:35	?	?	Saved module 'SystemUpdater' config data
+2020-02-06 00:34:35	?	?	Saved module info caches
+2020-02-06 00:34:35	admin	http://localhost/processwire/processwire/page/?login=1	Saved module 'SystemUpdater' config data
+2020-02-06 00:34:36	admin	http://localhost/processwire/processwire/page/list/?id=1&render=JSON&start=0&lang=0&open=undefined&mode=actions	Saved module 'SystemUpdater' config data
